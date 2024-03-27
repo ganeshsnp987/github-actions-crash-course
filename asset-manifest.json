@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ganeshsnp987/github-actions-crash-course.git/static/css/main.073c9b0a.css",
-    "main.js": "/ganeshsnp987/github-actions-crash-course.git/static/js/main.3000481a.js",
+    "main.js": "/ganeshsnp987/github-actions-crash-course.git/static/js/main.7854df17.js",
     "static/js/787.dd9a8d66.chunk.js": "/ganeshsnp987/github-actions-crash-course.git/static/js/787.dd9a8d66.chunk.js",
     "static/media/logo.svg": "/ganeshsnp987/github-actions-crash-course.git/static/media/logo.16b63f3cde49a58f69098d2ad30bf094.svg",
     "index.html": "/ganeshsnp987/github-actions-crash-course.git/index.html",
     "main.073c9b0a.css.map": "/ganeshsnp987/github-actions-crash-course.git/static/css/main.073c9b0a.css.map",
-    "main.3000481a.js.map": "/ganeshsnp987/github-actions-crash-course.git/static/js/main.3000481a.js.map",
+    "main.7854df17.js.map": "/ganeshsnp987/github-actions-crash-course.git/static/js/main.7854df17.js.map",
     "787.dd9a8d66.chunk.js.map": "/ganeshsnp987/github-actions-crash-course.git/static/js/787.dd9a8d66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3000481a.js"
+    "static/js/main.7854df17.js"
   ]
 }
